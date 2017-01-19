@@ -1,0 +1,303 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"achi",
+				"achievementId"
+			],
+			[
+				"ac",
+				"achievementId"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 117.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Randy/AppData/LocalLow/Randy/KingdomDeathMonster/Slot0.sav",
+		"/C/Users/Randy/AppData/Local/Temp/Temp1_Unrestricted Wolf School Gear v1-271-v1.zip/readme.txt",
+		"/C/Program Files (x86)/Mod Organizer/mods/Player - Lind's Human Eyes/Readme.txt",
+		"/C/Users/Randy/Documents/My Games/Sid Meier's Civilization VI/UserOptions.txt",
+		"/C/Users/Randy/Documents/My Games/Sid Meier's Civilization VI/AppOptions.txt",
+		"/C/Users/Randy/AppData/Local/Temp/Temp1_Unrestricted Witcher Gear v3-264-v3A.zip/readme.txt",
+		"/C/Users/Randy/AppData/Local/Temp/Temp1_Lowered hood Feline-1551-1-4.zip/mod2NoHood/content/metadata.store",
+		"/C/Users/Randy/AppData/LocalLow/DefaultCompany/KingdomDeathMonster/Slot0.sav",
+		"/C/Users/Randy/AppData/LocalLow/DefaultCompany/KingdomDeathMonster/Slot1.sav",
+		"/C/Users/Randy/AppData/Local/Temp/7zOA69B.tmp/Readme43DSBIOS-Password.txt",
+		"/C/Users/Randy/AppData/Local/Temp/7zO5012.tmp/Readme43DSBIOS-Password.txt",
+		"/C/Users/Randy/Documents/My Games/XCOM2/XComGame/Config/XComGame.ini",
+		"/C/Users/Randy/Documents/My Games/XCOM2/XComGame/Config/XComGameCore.ini",
+		"/C/Users/Randy/Documents/My Games/XCOM2/XComGame/Config/XComGameData.ini",
+		"/E/Games/SteamLibrary/steamapps/common/Fallout 4/FO4 Edit/TES5Edit Readme.txt",
+		"/C/Users/Randy/Downloads/Mupen64Plus-AE-All/pad.ini",
+		"/E/Games/SteamLibrary/steamapps/common/Fallout 4/Data/scripts/Source/Base/abAssaultronSelfDestruct.psc",
+		"/E/Games/SteamLibrary/steamapps/common/Fallout 4/Data/scripts/Source/Base/AffinitySceneHandlerScript.psc",
+		"/C/Users/Randy/Desktop/Script Assets/Scripts/affinityscenehandlerscript.pex",
+		"/C/Users/Randy/Downloads/modguide.txt",
+		"/E/Games/SteamLibrary/steamapps/common/Stellaris/common/name_lists/Hyperion.txt",
+		"/E/Games/SteamLibrary/steamapps/common/Fallout 4/Data/Strings/Fallout4_en.STRINGS",
+		"/E/Games/Nexus Mod Manager/Fallout4/Mods/ReadMe/Temp/readme.txt",
+		"/E/Games/Nexus Mod Manager/Fallout4/Mods/ReadMe/Temp/Readme_EN.txt",
+		"/C/Users/Randy/Documents/My Games/Fallout4/Fallout4Custom.ini",
+		"/C/Users/Randy/Documents/My Games/Fallout4/Fallout4Prefs.ini",
+		"/E/Games/Nexus Mod Manager/Witcher3/Mods/ReadMe/Temp/readme.txt",
+		"/C/Users/Randy/Desktop/PatcherGUI/PatcherGUIReadme.txt",
+		"/C/Users/Randy/Documents/My Games/XCOM2/XComGame/Config/XComEngine.ini",
+		"/C/Users/Randy/Documents/My Games/Fallout4/Fallout4.ini",
+		"/E/Games/Nexus Mod Manager/Fallout4/Mods/ReadMe/Temp/Wizard.txt",
+		"/E/Games/Nexus Mod Manager/Fallout4/Mods/ReadMe/Temp/VaultGirl.txt",
+		"/E/Games/SteamLibrary/steamapps/common/Fallout 4/Fallout4/Fallout4Prefs.ini",
+		"/E/Games/SteamLibrary/steamapps/common/Fallout 4/Fallout4_Default.ini",
+		"/C/Users/Randy/Dropbox/Documents/Wifi/WifiSettings.txt",
+		"/E/Games/Nexus Mod Manager/Fallout4/Mods/ReadMe/Temp/Readme.txt",
+		"/C/Users/Randy/Documents/My Games/Fallout4/Saves/Save8_25CF7261_52616E6479_Commonwealth_010541_20151115035555_25_2 - Copy.fos",
+		"/C/Users/Randy/Dropbox/Documents/Resume/RandallKnapp-ResumeText.txt",
+		"/C/Users/Randy/Desktop/html5-boilerplate_v5.2.0/css/main.css",
+		"/C/Users/Randy/Desktop/html5-boilerplate_v5.2.0/index.html",
+		"/C/Users/Randy/Desktop/html5-boilerplate_v5.2.0/.htaccess",
+		"/E/Games/SteamLibrary/SteamApps/common/Fallout New Vegas/Data/Menus/index.html",
+		"/C/Users/Randy/AppData/Local/Temp/Temp1_html5-boilerplate_v5.2.0.zip/humans.txt",
+		"/E/Games/SteamLibrary/SteamApps/common/Fallout New Vegas/Data/Menus/levelup_menu (2).xml",
+		"/C/Users/Randy/AppData/Local/Temp/7zOE19A.tmp/BoostReadme.txt",
+		"/E/Games/SteamLibrary/SteamApps/common/Fallout New Vegas/Data/Menus/main/stats_menu.xml",
+		"/E/Games/SteamLibrary/SteamApps/common/Fallout New Vegas/Data/Menus/levelup_menu.xml",
+		"/C/Program Files (x86)/Mod Organizer/mods/Items - Arcane Cleanser/ArcaneCleanser-README.txt",
+		"/C/Users/Randy/AppData/Local/Temp/7zOD0E7.tmp/mojave delight readme v1.txt",
+		"/C/Users/Randy/AppData/Local/Temp/7zOB9BF.tmp/Readme_DLM_QuestItemsFix_1.4.eng.txt",
+		"/C/Users/Randy/AppData/Local/Temp/7zOED4D.tmp/Type 6 Modification Body v1.1 EN.txt",
+		"/C/Users/Randy/AppData/Local/Temp/Temp1_MTUI-34902.zip/MTUI Readme.txt",
+		"/E/Games/SteamLibrary/SteamApps/common/Fallout New Vegas/FNV4GB Readme.txt",
+		"/C/Users/Randy/AppData/Local/Temp/7zOED1.tmp/FNV4GB Readme.txt",
+		"/C/Users/Randy/Downloads/4GBFNV-1-9-55061-1-9.rar",
+		"/E/Games/SteamLibrary/SteamApps/common/Fallout New Vegas/Data/Menus/main/hud_main_menu.xml",
+		"/E/Games/SteamLibrary/SteamApps/common/Fallout New Vegas/Data/SKIN OPTIONS/Skin Options Readme.txt",
+		"/C/Users/Randy/AppData/Local/Temp/7zO843D.tmp/BOOBS!.txt",
+		"/C/Users/Randy/AppData/Local/Temp/7zOEC33.tmp/RCSSreadme.txt",
+		"/C/Users/Randy/Documents/My Games/FalloutNV/Fallout.ini",
+		"/C/Users/Randy/Dropbox/Code/Game Assets/Sources (11 files)/_readme.txt",
+		"/E/Games/SteamLibrary/steamapps/common/XCom-Enemy-Unknown/XEW/Long_War_EW_ReadMe.txt",
+		"/E/Games/SteamLibrary/SteamApps/common/Fallout New Vegas/Data/Meshes/3NV/rcss/helmet.nif",
+		"/E/Games/SteamLibrary/SteamApps/common/Fallout New Vegas/Fallout_default.ini",
+		"/E/Games/SteamLibrary/SteamApps/common/Fallout New Vegas/Data/DUINV_ReadMe.txt",
+		"/E/Games/SteamLibrary/SteamApps/common/Fallout New Vegas/Data/ReadMe - Follower Home Marker.txt",
+		"/C/Users/Randy/AppData/Local/Temp/Temp1_UHNV-V4-4-37884-4-4.zip/Readme.txt",
+		"/C/Users/Randy/Documents/My Games/FalloutNV/GECKCustom.ini",
+		"/E/Games/SteamLibrary/SteamApps/common/Fallout New Vegas/GECKReadme.txt",
+		"/C/Users/Randy/Desktop/notes from thing.txt",
+		"/C/Users/Randy/Desktop/todo.txt",
+		"/C/Users/Randy/Documents/Code/Javascript/AsteroidMiner/html/index.html",
+		"/C/Users/Randy/Documents/Code/Javascript/AsteroidMiner/html/src/Achievements.js",
+		"/C/Users/Randy/Documents/FinanceTodo.txt",
+		"/C/Users/Randy/Saved Games/Darkest/profile_Darkest One_0/persist.game.json",
+		"/C/Users/Randy/Saved Games/Darkest/profile_Darkest One_0/persist.town.json",
+		"/C/Users/Randy/Saved Games/Darkest/profile_Darkest One_0/persist.estate.json",
+		"/C/Users/Randy/Dropbox/Save Games/DarkestDungeon/profile_Darkest One_0/persist.game.json",
+		"/C/Users/Randy/Dropbox/Save Games/DarkestDungeonText/profile_Darkest 1_0/persist.estate.json",
+		"/C/Users/Randy/Desktop/persist.estate.json",
+		"/C/Users/Randy/Documents/Code/Javascript/AsteroidMiner/html/src/Research.js",
+		"/C/Users/Randy/Documents/Code/Javascript/AsteroidMiner/html/src/GameData.js",
+		"/C/Users/Randy/Documents/Code/Javascript/AsteroidMiner/html/src/AsteroidHopper.js",
+		"/E/Games/SteamLibrary/steamapps/common/Cities_Skylines/devInfo.txt",
+		"/C/Users/Randy/Saved Games/Darkest/profile_DarkestHome_0/persist.game.json",
+		"/E/Games/SteamLibrary/SteamApps/common/DarkestDungeon/props/trap_definitions.json",
+		"/E/Games/SteamLibrary/SteamApps/common/DarkestDungeon/scripts/starting_save/persist.upgrades.json",
+		"/E/Games/SteamLibrary/SteamApps/common/DarkestDungeon/scripts/camera.darkest",
+		"/E/Games/SteamLibrary/SteamApps/common/DarkestDungeon/user_information/user_information.darkest",
+		"/E/Games/SteamLibrary/SteamApps/common/DarkestDungeon/campaign/town/town.layout.darkest",
+		"/E/Games/SteamLibrary/SteamApps/common/DarkestDungeon/campaign/progression/progression.json",
+		"/E/Games/SteamLibrary/SteamApps/common/DarkestDungeon/campaign/roster/roster.json",
+		"/C/Users/Randy/Documents/Code/Javascript/AsteroidMiner/html/src/ResearchCenter.js",
+		"/C/Users/Randy/Documents/Code/Javascript/AsteroidMiner/html/css/asteroidminer-chad-edit.css",
+		"/C/Users/Randy/Documents/Code/Javascript/AsteroidMiner/html/main-chad-edit.html",
+		"/C/Users/Randy/Documents/Code/Javascript/AsteroidMiner/src/SaveManager.js",
+		"/C/Users/Randy/Documents/Code/Javascript/AsteroidMiner/html/js/jquery.spritely-0.6.js",
+		"/C/Users/Randy/Documents/Code/Javascript/AsteroidMiner/src/Game.js",
+		"/C/Users/Randy/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Randy/AppData/Local/Temp/Temp1_NPUZ00097SLOT00_DISTRIB_v2.zip/NPUZ00097SLOT00/HBLCONF.TXT",
+		"/C/Users/Randy/Desktop/DS4Tool 1.2.2/Readme.txt",
+		"/C/Users/Randy/Desktop/minecraft/server.properties",
+		"/C/Users/Randy/AppData/Roaming/.minecraft/launcher_profiles.json",
+		"/C/Users/Randy/Documents/Code/Cocos/FirstGame/CocoStudio.lua",
+		"/C/Users/Randy/Documents/Code/Cocos/FirstGame/Cocos2d.lua",
+		"/C/Users/Randy/Documents/Code/Cocos/FirstGame/AudioEngine.lua",
+		"/C/Users/Randy/Desktop/cocos2d-x-3.3rc0/docs/CODING_STYLE.md",
+		"/C/Users/Randy/Desktop/cocos2d-x-3.3rc0/README.md",
+		"/C/Users/Randy/Desktop/cocos2d-x-3.3rc0/tools/missing-tools.txt",
+		"/C/Users/Randy/Dropbox/Settings/Exported-2014-07-16.vssettings",
+		"/C/Users/Randy/AppData/Local/Temp/Temp1_s9xTYLcm091127_mod_r26.zip/README.TXT",
+		"/C/Users/Randy/Desktop/README.TXT",
+		"/C/Users/Randy/AppData/Local/Temp/Temp1_DS4Tool 1.2.2.zip/Readme.txt",
+		"/C/Users/Randy/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Randy/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Randy/Desktop/VS2012/AdminDeployment.xml",
+		"/C/Users/Randy/AppData/Roaming/.minecraft/options.txt",
+		"/C/Users/Randy/Documents/Code/Flash/RiseOfArthanis/.git/info/exclude",
+		"/C/Users/Randy/Documents/Code/Flash/RiseOfArthanis/.gitattributes",
+		"/C/Users/Randy/Documents/Code/Flash/RiseOfArthanis/.git/config",
+		"/C/Users/Randy/Documents/Code/SDK/Starling/starling/bin/warning.txt"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			",",
+			"bUseBackgroundLevelStreaming",
+			"bUseTextureStreaming",
+			"PoolSize",
+			"’",
+			"–",
+			"100",
+			"--></",
+			"/></",
+			"\"/>",
+			"getResearchBonus",
+			"tryAddAsteroids",
+			"inTheBeginning",
+			"achievement",
+			"background:",
+			"miner",
+			"achievements",
+			"jquery",
+			"ctrl+shift+s"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"'",
+			"-",
+			"--> </",
+			"/> </",
+			"\" />"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true
+}
