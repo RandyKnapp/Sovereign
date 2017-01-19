@@ -6,7 +6,13 @@ const rl = readline.createInterface({
 	output: process.stdout
 });
 
-var game = new Game(rl);
+var messenger = {
+	MessagePlayer : function(player, message)
+	{
+		rl.write(player + ' - ' + message + '\n');
+	}
+}
+var game = new Game(messenger);
 
 var getUserInput = function()
 {
