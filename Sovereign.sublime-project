@@ -14,8 +14,10 @@
 	"build_systems":
 	[
 		{
-			"name": "Run",
-			"shell_cmd": "node ."
+			"name" : "Run",
+			"cmd" : [ "start", "cmd", "/k", "node", "index.js" ],
+			"working_dir" : "$project_path",
+			"shell" : true
 		}
 	]
 }
