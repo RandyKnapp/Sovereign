@@ -23,20 +23,40 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/Users/rknapp/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 13679,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/rknapp/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 129,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 380.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
-				"pack",
-				"Package Control: Install Package"
+				"Package Control: ",
+				"Package Control: List Packages"
 			],
 			[
 				"packa",
-				"Preferences: Browse Packages"
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
 			]
 		],
 		"width": 400.0
@@ -195,6 +215,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"theme",
 			",",
 			"bUseBackgroundLevelStreaming",
 			"bUseTextureStreaming",
@@ -237,8 +258,63 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/rknapp/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 13679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12785,
+								12785
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4194.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/rknapp/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								44
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
